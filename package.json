@@ -1,0 +1,23 @@
+{
+  "name": "ai-utils",
+  "version": "1.0.0",
+  "description": "aibao utils",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "EthanTian",
+  "license": "MIT"
+}
